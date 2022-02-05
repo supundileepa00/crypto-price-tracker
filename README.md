@@ -7,8 +7,6 @@ visit application - [https://crypto-price-tracker-sl.netlify.app/](https://crypt
 
 Users can check all crypto-currency prices in LKR/USD. Used ReactJS for the frontend and CoinGecko api to track crypto-currency prices in real time. 
 
-Chat Engine - [https://chatengine.io](https://chatengine.io)
-
 
 **FrontEnd - ReactJS**
 
